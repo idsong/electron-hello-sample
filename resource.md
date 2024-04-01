@@ -1,0 +1,1 @@
+https://sevic.dev/notes/electron-forge-publish-github/
