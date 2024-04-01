@@ -55,6 +55,8 @@ module.exports = {
         owner: 'idSong',
         name: 'electron-hello-sample'
       },
+      authToken: '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',
+      // authToken: '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', 
       prerelease: true,
       draft: true
     },
